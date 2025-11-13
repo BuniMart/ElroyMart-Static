@@ -1,0 +1,266 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Casio Scientific Calculator FX-570EX",
+      "description": "Reliable used scientific calculator suitable for secondary and college students. Fully functional with minor cosmetic wear.",
+      "category": ["stationery", "used-items"],
+      "price": 75.00,
+      "discountPercentage": 10.0,
+      "rating": 4.5,
+      "stock": 10,
+      "tags": ["calculator", "used", "school"],
+      "brand": "Casio",
+      "sku": "STA-CAS-CAL-001",
+      "weight": 200,
+      "dimensions": { "width": 7.0, "height": 16.0, "depth": 1.5 },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Works perfectly and great value for money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Amirul Rahman",
+          "reviewerEmail": "amirul.rahman@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9551234567890",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": ["https://cdn.dummyjson.com/product-images/misc/calculator.webp"],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/calculator-thumb.webp"
+    },
+    {
+      "id": 2,
+      "title": "A4 Ring Binder File (Used)",
+      "description": "Durable used binder in good condition, perfect for organizing class notes and assignments.",
+      "category": ["stationery", "used-items"],
+      "price": 5.00,
+      "discountPercentage": 10.0,
+      "rating": 4.2,
+      "stock": 30,
+      "tags": ["file", "binder", "used"],
+      "brand": "No Brand",
+      "sku": "STA-FIL-BIN-002",
+      "weight": 300,
+      "dimensions": { "width": 25.0, "height": 32.0, "depth": 4.0 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Clean and still very usable!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sarah Lee",
+          "reviewerEmail": "sarah.lee@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9550987654321",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": ["https://cdn.dummyjson.com/product-images/misc/binder.webp"],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/binder-thumb.webp"
+    },
+    {
+      "id": 3,
+      "title": "Used Mechanical Pencil Set",
+      "description": "Set of 3 mechanical pencils in working condition, suitable for everyday school use.",
+      "category": ["stationery", "used-items"],
+      "price": 8.00,
+      "discountPercentage": 10.0,
+      "rating": 4.0,
+      "stock": 20,
+      "tags": ["pencil", "used", "writing"],
+      "brand": "Pentel",
+      "sku": "STA-PEN-MEC-003",
+      "weight": 50,
+      "dimensions": { "width": 5.0, "height": 15.0, "depth": 1.0 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Slightly worn but still writes smoothly!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jason Tan",
+          "reviewerEmail": "jason.tan@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9556543217890",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": ["https://cdn.dummyjson.com/product-images/misc/pencil.webp"],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/pencil-thumb.webp"
+    },
+    {
+      "id": 4,
+      "title": "Used School Bag (Standard Size)",
+      "description": "Gently used school bag with spacious compartments. Suitable for primary or secondary school students.",
+      "category": ["used-items"],
+      "price": 25.00,
+      "discountPercentage": 10.0,
+      "rating": 4.3,
+      "stock": 5,
+      "tags": ["bag", "used", "school"],
+      "brand": "Nike",
+      "sku": "USE-BAG-SCH-004",
+      "weight": 700,
+      "dimensions": { "width": 30.0, "height": 45.0, "depth": 15.0 },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Still in great condition and comfortable to carry!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nur Aisyah",
+          "reviewerEmail": "nur.aisyah@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9553344556677",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": ["https://cdn.dummyjson.com/product-images/misc/school-bag.webp"],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/school-bag-thumb.webp"
+    },
+    {
+      "id": 5,
+      "title": "Used Water Bottle 500ml",
+      "description": "Reusable 500ml water bottle, cleaned and sanitized. Ideal for school use.",
+      "category": ["used-items"],
+      "price": 6.00,
+      "discountPercentage": 10.0,
+      "rating": 3.9,
+      "stock": 15,
+      "tags": ["bottle", "used", "eco-friendly"],
+      "brand": "Tupperware",
+      "sku": "USE-BOT-WAT-005",
+      "weight": 120,
+      "dimensions": { "width": 7.0, "height": 20.0, "depth": 7.0 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Good condition and very clean.",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Adrian Lim",
+          "reviewerEmail": "adrian.lim@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9557766554433",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": ["https://cdn.dummyjson.com/product-images/misc/water-bottle.webp"],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/water-bottle-thumb.webp"
+    },
+    {
+      "id": 6,
+      "title": "Half-Used Faber Castell Pen",
+      "description": "Enjoy the smoothest performance and a stylish new look, this isn’t just a pen - it’s your vibe. For the cheap price of only 199. Sourced from 'journalists' in class.",
+      "category": ["stationery", "used-items"],
+      "price": 199.00,
+      "discountPercentage": 10.0,
+      "rating": 4.67,
+      "stock": 5000000,
+      "tags": ["pens", "used", "school"],
+      "brand": "Faber-Castell",
+      "sku": "STA-CAS-CAL-001",
+      "weight": 50,
+      "dimensions": { "width": 7.0, "height": 25.0, "depth": 1.5 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Writes smoothly and amazing value for money! Must buy for all students.",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Nigel Richards",
+          "reviewerEmail": "nigel.richards@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "3 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9551234567890",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": ["https://cdn.dummyjson.com/product-images/misc/calculator.webp"],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/calculator-thumb.webp"
+    },
+    {
+      "id": 7,
+      "title": "Mixue Lemonade Drink",
+      "description": "Mixue Lemonade originated from a passion for crafting the perfect citrus drink. The journey began with a vision to create a beverage that goes beyond the ordinary. For all 80% and above scorers, they can earn a Mixue Lemonade, free of charge!",
+      "category": ["drinks"],
+      "price": 3.00,
+      "discountPercentage": 100.0,
+      "rating": 5,
+      "stock": 0,
+      "tags": ["drinks", "reward"],
+      "brand": "Mixue",
+      "weight": 300,
+      "dimensions": { "width": 7.0, "height": 19.0, "depth": 1.5 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Only in-school pickup avaliable",
+      "availabilityStatus": "Out of Stock, check back for Mid-Years",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "comment": "Great drink and good target for all Math students!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Wesleyan Student",
+          "reviewerEmail": "wesleyan.student@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "1 minute return policy",
+      "minimumOrderQuantity": 1,
+      "maximumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9551234567890",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": ["https://cdn.dummyjson.com/product-images/misc/calculator.webp"],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/calculator-thumb.webp"
+    }
+  ],
+  "total": 7,
+  "skip": 0,
+  "limit": 7
+}
