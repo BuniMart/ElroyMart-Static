@@ -1,2 +1,2 @@
-# BuniMart
-This is the publicly facing version of BuniMart, meant for deployment to GitHub Pages. Do not send pull requests here.
+# ElroyMart
+This is the publicly facing version of ElroyMart, meant for deployment to GitHub Pages. Do not send pull requests here.

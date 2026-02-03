@@ -1,30 +1,46 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BuniMart</title>
-    <meta property="og:title" content="BuniMart" />
-    <meta property="og:url" content="https://bunimart.qzz.io" />
-    <link rel="preload" href="https://api.bunimart.qzz.io/products.json" as="json" type="application/json"/>
-    <link rel="preload" href="https://api.bunimart.qzz.io/categories.json" as="json" type="application/json"/>
+    <title>ElroyMart</title>
+    <meta property="og:title" content="ElroyMart" />
+    <meta property="og:url" content="https://elroymart.qzz.io" />
+    <link
+      rel="preload"
+      href="https://api.elroymart.qzz.io/products.json"
+      as="json"
+      type="application/json"
+    />
+    <link
+      rel="preload"
+      href="https://api.elroymart.qzz.io/categories.json"
+      as="json"
+      type="application/json"
+    />
     <script type="text/javascript">
-      (function(l) {
-        if (l.search[1] === '/' ) {
-          var decoded = l.search.slice(1).split('&').map(function(s) { 
-            return s.replace(/~and~/g, '&')
-          }).join('?');
-          window.history.replaceState(null, null,
-              l.pathname.slice(0, -1) + decoded + l.hash
+      (function (l) {
+        if (l.search[1] === "/") {
+          var decoded = l.search
+            .slice(1)
+            .split("&")
+            .map(function (s) {
+              return s.replace(/~and~/g, "&");
+            })
+            .join("?");
+          window.history.replaceState(
+            null,
+            null,
+            l.pathname.slice(0, -1) + decoded + l.hash,
           );
         }
-      }(window.location))
+      })(window.location);
     </script>
-    <script type="module" crossorigin src="/assets/index-xozwbMuX.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-BRgjUslv.css">
+    <script type="module" crossorigin src="/assets/index-CjnrnJlB.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-D7OmmMLo.css">
   </head>
-  <body class="dark:bg-slate-800">
+  <body class="dark:bg-orange-950 transition-all">
     <div id="root"></div>
   </body>
 </html>
